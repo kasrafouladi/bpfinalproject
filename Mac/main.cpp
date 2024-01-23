@@ -43,7 +43,6 @@ void c_col(int c){
 	return;
 }
 
-
 void cls(){
     #ifdef WINDOWS
         system("cls");
