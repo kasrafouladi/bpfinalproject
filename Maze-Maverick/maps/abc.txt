@@ -1,0 +1,8 @@
+kasra
+abc
+(random generator)
+Easy
+3 3 4
+2 -3 0 
+1 0 -3 
+-2 -2 -1 
