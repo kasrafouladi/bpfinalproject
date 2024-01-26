@@ -1,8 +1,0 @@
-kasra
-kasra
-(manual)
-Hard
-3 3 4
-1 2 3 
-233 33 -6 
-0 0 2 
